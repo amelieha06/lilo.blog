@@ -8,7 +8,13 @@ image = "https://www.kinderaerzte-nabburg.de/wp-content/uploads/2019/06/adhs_neu
 description = ""
 footnotes = ""
 +++
-## Die 18-jährige XY wurde mit 12 Jahren mit ADHS diagnostiziert und nimmt seither das Medikament Ritalin zur Therapie. Jetzt will sie es wieder absetzen - und ohne, im Alltag, auskommen.
+{{<lead>}}
+
+### Die 18-jährige XY wurde mit 12 Jahren mit ADHS diagnostiziert und nimmt seither das Medikament Ritalin zur Therapie. Jetzt will sie es wieder absetzen - und ohne, im Alltag, auskommen.
+
+{{<lead>}}
+
+<hr>
 
 ADHS ist eine neuro-biologische Erkrankung, die die Informationsübertragung in der Nervenzelle im Gehirn verändert. Heute gilt ADHS als eine eher unterschätzte Verhaltensstörung und wird mit einer verkürzten Aufmerksamkeitsspanne, schlechten Schul- oder Arbeitsleistungen und oft auch mit dem Typisch-Beispiel, dass kleine Jungs nicht still sitzen können, gleichgestellt. Die häufigsten und typischsten Symptome sind: Aufmerksamkeitsstörung, Hyperaktivität und Impulsivität. Doch hinter der Verhaltensstörung steckt eigentlich viel mehr. Heutzutage verschreiben viele Fachärzt:innen als erstes einmal das Medikament Ritalin ohne abzusprechen, ob eine Verhaltenstherapie in Frage kommt. Später wollen viele Patient:innen das starke Medikament absetzen, doch die Probleme werden oftmals dadurch verstärkt. Auch wird Ritalin, bei nicht-ADHSler, als Droge und Aufputschmittel eingenommen. Doch heute wissen wir, dass «bis zu 3% aller Erwachsenen und 5% aller Kinder ADHS haben», stellt die Psychologin Caroline Melideo fest. Die Dunkelziffer ist vermutlich höher, denn viele wissen nicht, dass sie betroffen sind oder werden fehldiagnostiziert.
 
@@ -29,6 +35,14 @@ Bei Personen mit ADHS ist typisch, vor allem bei Frauen: starke Stimmungsschwank
 #### Ein Leben ohne Ritalin
 
 Ritalin ist das grösste Aufputschmittel für Personen, die unter ADHS leiden. Oft wird dieses Medikament missbraucht, wodurch es schwere Folgen nachziehen kann. Aber auch durch absetzten von Ritalin werden die Beschwerden einer betroffenen Person nur noch grösser.
+
+{{</box>}}
+
+### Definition Ritalin
+
+Ritalin ist ein Methylphenidat und strukturell mit den Amphetaminen verwandt. Seine Wirkung basiert auf einer kurzfristigen Blockade bestimmter Transporter für die Botenstoffe Dopamin und Noradrenalin im Gehirn. Das stimulierende Medikament wirkt anregend, unterdrückt Müdigkeit und wirkt antriebs- und leistungssteigernd. Hauptsächlich wird es zur Behandlung von ADHS und ADS eingesetzt. Viele Menschen ohne ADHS benutzen Ritalin auch zum Lernen oder als eine Droge. Dies fällt jedoch unter Medikamentenmissbrauch und kann je nach Dosierung schwere Nebenwirkungen nach sich ziehen.
+
+{{</box>}}
 
 Nachdem Sarej sieben Jahre Ritalin nahm, wollte sie einen Schlussstrich ziehen. Die Folgen des Absetzens von Ritalin seien grösser als Sie es sich jemals hätte vorstellen können. «Es ist wie als hättest du eine Gehirnerschütterung, du vergisst alles», sagt Sarej. Während dem Interview musste sie deshalb vermehrt nachfragen über was wir gerade gesprochen hatten. Die Konzentrationsschwächen und Gedächtnisverluste begleiten sie jetzt schon mehrere Monate durch ihren Alltag. In der Schule, sowie auch im Privatleben hat Sarej grosse Veränderungen verspürt. In ihrer Lehre wird sie nicht von ihrer Berufsbildnerin unterstützt, was ihr manchmal grosse Mühe bereitet. Ihre Lehrverantwortliche ist fest davon überzeugt, dass Sarej sich ihre Schwächen selber abtrainieren kann. Auch in ihrer Familie findet sie keinen Zufluchtsort, wenn es ihr nicht gut geht. In ihrer Kurdischen Familie wird nicht oft über Gefühle gesprochen, wodurch sie vielmals auf sich selbst gestellt ist. Oftmals hat sie deshalb auch mental mit sich zu kämpfen. Es gibt Tage, an den sie am liebsten zu Hause in ihrem Zimmer bleiben und niemanden sehen möchte. In diesen Momenten denkt sie oft wie es wäre, wieder Ritalin zu nehmen. «Ich habe versucht wieder Ritalin zu nehmen, damit ich wieder denken kann», sagt Sarej. Als sie wieder Ritalin zu sich nahm wurden ihre vielen Gedanken und die Konzentrationsschwächen nicht besser. Dies hat sie in ein erneutes Loch gezogen, weil sie nicht wusste, was sie machen soll, damit sie wieder „normal“ denken kann. Ein Gedankenüberfluss wurde bei ihr normal. So sind auch viele Gerüchte über sie entstanden, weil ihre angeblichen Freunde dachten, sie würde sich sowieso an nichts erinnern. Dies hat zufolge, dass sie oft ausgenutzt wurde und sich nicht mal richtig an die Situation erinnern konnte. Studien beweisen, dass nach dem Absetzten von Ritalin mangelnde Impulskontrolle, Hyperaktivität und Konzentrationsschwächen stärker als vor der Einnahme des Medikamentes auftreten können. Im Gehirn bilden sich leere Stellen, die das Erinnerungsvermögen schädigen. Dies ist vermutlich der Grund wieso sich Sarej oft nicht erinnern kann.
 

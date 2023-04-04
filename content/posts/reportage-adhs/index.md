@@ -8,7 +8,7 @@ image = "https://www.kinderaerzte-nabburg.de/wp-content/uploads/2019/06/adhs_neu
 description = ""
 footnotes = ""
 +++
-## Die 18-jährige XY wurde mit 12 Jahren mit ADHS diagnostiziert und nimmt seither das Medikament Ritalin zur Therapie. Jetzt will 
+## Die 18-jährige XY wurde mit 12 Jahren mit ADHS diagnostiziert und nimmt seither das Medikament Ritalin zur Therapie. Jetzt will
 
 ## sie es wieder absetzen - und ohne, im Alltag, auskommen.
 
@@ -19,8 +19,6 @@ ADHS ist eine neuro-biologische Erkrankung, die die Informationsübertragung in 
 Montagmorgen, die Psychologin des Rekrutierungszentrum Sumiswald läuft den Gang entlang, setzt sich an einen Besprechungstisch und erläutert Behandlung- und Therapieziele und die positiven sowie die negativen Aspekte des Medikaments Ritalin. «Kennst du einen ADHSler, so kennst du nur einen ADHSler», sagt Melideo. ADHS wirkt sich bei jedem einzelnen Menschen anders aus. Deshalb ist es auch wichtig, dass man mit Testverfahren und Gesprächen abklärt, ob ein ADHS vorhanden ist. Viele Fachärzt:innen, so auch Melideo stellen folgendes fest: «Bei ADHS-Patient:innen wird oft zuerst eine Depression fehldiagnostiziert.» So eine Fehldiagnose kommt zustande, da man bei ADHS nur die typischen Merkmale und Anzeichen kennt. Doch da sich die Symptome der Störung sehr individuell auswirken können, sollte man die möglichen Anzeichen nicht verallgemeinern und bei Abklärungen und Diagnosen genauer forschen.
 
 «Ein unentdecktes ADHS kann zum Beispiel zu einer starken Stresstoleranz, einer Suchtproblematik oder einer Angststörung führen. Aufgrund solcher Symptome kann dies das Berufs- und Schulleben stark einschränken», sagt Psychologin Caroline Melideo. Auch die typischen Symptome wie Konzentrationsschwierigkeiten, Hyperaktivität und Impulsivität spielen eine grosse Rolle. Darum wird oft als Erstes mit Ritalin therapiert, um der oder die Betroffene ruhig zu stellen. Ritalin, heute als ein «Mode-Ding» bekannt, da man immer mehr zum Medikament greift, auch ohne eine ADHS-Diagnose, wirkt anregend, antriebs- und leistungssteigernd, und soll gegen Müdigkeit, motorische  Hyperaktivität und innere  Unruhe wirken, was aber, je nach Dosierung, oftmals nur für kurze Zeit anhält. Darum wird erstmal, über das Medikament aufgeklärt und eine niedrige Dosierung von Ritalin verabreicht. Falls nötig, kann man die Dosierung steigern, jedoch sind Verabreichung und Dosierung des Medikaments stark umstritten. Viele Eltern sind dafür, dass ihr Kind Ritalin zur Behandlung einnimmt, andere wiederum dagegen. «Appetitverlust, was oft bei Jugendlichen eintritt, verstärktes Schwitzen, leicht erhöhter Blutdruck sowie vermehrtes Eintreten von Kopfschmerzen gehören zu den Nebenwirkungen von Ritalin», erklärt Caroline Melideo.
-
-
 
 ADHS-betroffene Personen haben täglich mit vielen Schwierigkeiten zu kämpfen. Meist ganz andere als Personen ohne ADHS. «Manche ADHSler haben Mühe, im Restuarant aus einer Menü-Karte zu wählen. «Ach so viele Möglichkeiten \[…], Was reden die Kollegen, und die am Nachbartisch; wer kommt gerade rein?» Ein Wirrwarr. \[…]» (Illustratives-Beispiel, Lachenmeier, 2021: 27)
 
@@ -51,3 +49,8 @@ So auch Sarej die im Kindergarten oft an Wutausbrüchen litt. Dadurch kam die Le
 ADHS ist eine sehr verbreitete Krankheit, doch viele Menschen wissen oder realisieren gar nicht, dass sie unter ADHS leiden. Oft kommt es zu Konflikten in der Arbeitswelt oder in der Schule, die auf diese Krankheit aufmerksam machen.
 
 Dadurch das viele Menschen ihr Leben von Grund auf strukturieren, kommen sie ohne Auffällige ADHS-Merkmale eine Zeitlang gut durch ihren Alltag. Dies kann jahrelang gut gehen, jedoch kann bei einem Berufswechsel oder Schicksalsschlag die Hyperaktivität durch zum Beispiel Stress hervorgerufen werden. Die Hyperaktivität aber auch die Aufmerksamkeit können sich verstärken. Jedoch kommt dies eher selten vor, die meisten Menschen ohne Diagnose, merken es ein Leben lang nicht. ADHS ist eine Krankheit, mit der man lernen kann umzugehen und somit auch im Alter mit den Symptomen wie Vergesslichkeit gut umgehen kann. Damit man überhaupt diagnostiziert wird braucht ein Mensch 5-6 Symptome von ADHS und das Verfahren bis hin zu den Medikamenten kann mehrere Monate dauern. Auch wenn man des Öfteren unruhig oder vergesslich ist, muss es aus diesem Grund nicht immer gerade heissen, dass man unter ADHS leidet. Manche stellen sich vor das ihre Symptome auf ein ADHS zurückgeführt werden kann und diagnostizieren sich selbst mit dieser Krankheit. Jedoch ist diese Diagnose meist nicht korrekt und die Betroffenen machen sich sorgen, obschon sie keinen Grund dazu haben.
+
+```
+llkjd
+clblablalbla
+```

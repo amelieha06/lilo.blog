@@ -8,9 +8,7 @@ image = "https://www.kinderaerzte-nabburg.de/wp-content/uploads/2019/06/adhs_neu
 description = ""
 footnotes = ""
 +++
-## Die 18-jährige XY wurde mit 12 Jahren mit ADHS diagnostiziert und nimmt seither das Medikament Ritalin zur Therapie. Jetzt will
-
-## sie es wieder absetzen - und ohne, im Alltag, auskommen.
+## Die 18-jährige XY wurde mit 12 Jahren mit ADHS diagnostiziert und nimmt seither das Medikament Ritalin zur Therapie. Jetzt will sie es wieder absetzen - und ohne, im Alltag, auskommen.
 
 ADHS ist eine neuro-biologische Erkrankung, die die Informationsübertragung in der Nervenzelle im Gehirn verändert. Heute gilt ADHS als eine eher unterschätzte Verhaltensstörung und wird mit einer verkürzten Aufmerksamkeitsspanne, schlechten Schul- oder Arbeitsleistungen und oft auch mit dem Typisch-Beispiel, dass kleine Jungs nicht still sitzen können, gleichgestellt. Die häufigsten und typischsten Symptome sind: Aufmerksamkeitsstörung, Hyperaktivität und Impulsivität. Doch hinter der Verhaltensstörung steckt eigentlich viel mehr. Heutzutage verschreiben viele Fachärzt:innen als erstes einmal das Medikament Ritalin ohne abzusprechen, ob eine Verhaltenstherapie in Frage kommt. Später wollen viele Patient:innen das starke Medikament absetzen, doch die Probleme werden oftmals dadurch verstärkt. Auch wird Ritalin, bei nicht-ADHSler, als Droge und Aufputschmittel eingenommen. Doch heute wissen wir, dass «bis zu 3% aller Erwachsenen und 5% aller Kinder ADHS haben», stellt die Psychologin Caroline Melideo fest. Die Dunkelziffer ist vermutlich höher, denn viele wissen nicht, dass sie betroffen sind oder werden fehldiagnostiziert.
 

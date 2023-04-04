@@ -36,7 +36,7 @@ Bei Personen mit ADHS ist typisch, vor allem bei Frauen: starke Stimmungsschwank
 
 Ritalin ist das grösste Aufputschmittel für Personen, die unter ADHS leiden. Oft wird dieses Medikament missbraucht, wodurch es schwere Folgen nachziehen kann. Aber auch durch absetzten von Ritalin werden die Beschwerden einer betroffenen Person nur noch grösser.
 
-{{</box>}}
+{{<box>}}
 
 ### Definition Ritalin
 

@@ -10,7 +10,7 @@ footnotes = ""
 +++
 {{<lead>}}
 
-### Die 18-jährige XY wurde mit 12 Jahren mit ADHS diagnostiziert und nimmt seither das Medikament Ritalin zur Therapie. Jetzt will sie es wieder absetzen - und ohne, im Alltag, auskommen.
+### Die 18-jährige Sarej wurde mit 12 Jahren mit ADHS diagnostiziert und nimmt seither das Medikament Ritalin zur Therapie. Jetzt will sie es wieder absetzen - und ohne, im Alltag, auskommen.
 
 {{<lead>}}
 
@@ -67,8 +67,6 @@ So auch Sarej, die im Kindergarten oft an Wutausbrüchen litt. Dadurch kam die L
 ADHS ist eine sehr verbreitete Krankheit, doch viele Menschen wissen oder realisieren gar nicht, dass sie unter ADHS leiden. Oft kommt es zu Konflikten in der Arbeitswelt oder in der Schule, die auf diese Krankheit aufmerksam machen.
 
 Dadurch dass viele Menschen ihr Leben von Grund auf strukturieren, kommen sie ohne auffällige ADHS-Merkmale gut durch ihren Alltag. Dies kann jahrelang gut gehen, jedoch kann bei einem Berufswechsel oder Schicksalsschlag die Hyperaktivität zum Beispiel durch Stress hervorgerufen werden. Die Hyperaktivität aber auch die Aufmerksamkeit können sich verstärken. Jedoch kommt dies eher selten vor, die meisten Menschen ohne Diagnose, merken es ein Leben lang nicht. ADHS ist eine Krankheit, mit der man lernen kann, mit den Symptomen wie Vergesslichkeit gut umzugehen. Damit man überhaupt diagnostiziert wird, braucht ein Mensch 5-6 Symptome von ADHS und das Verfahren bis hin zu den Medikamenten kann mehrere Monate dauern. Auch wenn man des Öfteren unruhig oder vergesslich ist, muss es aus diesem Grund nicht immer gerade heissen, dass man unter ADHS leidet. Manche Leute denken, dass ihre Symptome auf ADHS zurückzuführen sind und diagnostizieren sich selbst mit dieser Krankheit. Jedoch ist diese Diagnose meist nicht korrekt und die Betroffenen machen sich Sorgen, obschon sie keinen Grund dazu haben.
-
-
 
 #### Schluss
 

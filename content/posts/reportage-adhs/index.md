@@ -50,11 +50,17 @@ Momentan versucht Sarej mit den vielen Gedanken und Vergesslichkeit weiterhin oh
 
 #### Ein Leben mit Ritalin
 
-ADHS ist genetisch vererbbar, bis zu 5% der Bevölkerung leiden an dieser Erkrankung. Oftmals haben Kinder im jungen Alter viel Schwierigkeiten sich mit dieser Krankheit in eine Klasse zu integrieren. 
+{{<box>}}
 
-![Abbildung 2: Medikament Ritalin; www.proonlinepharma.com](https://www.proonlinepharma.com/wp-content/uploads/2020/11/Buy-Ritalin-Online-1-300x300.png)
+#### Fun Fact!
 
-So auch Sarej die im Kindergarten oft an Wutausbrüchen litt. Dadurch kam die Lehrerin erst mal auf den Gedanken, dass Sarej unter ADHS leiden könnte. Obwohl es strenge Regelungen für das Verschreiben von Ritalin gab, wurde Sarej das Medikament ohne weitere Beobachtungen verschrieben. In den nächsten Jahren wurden ihre Wutausbrüche und ihr Aufmerksamkeitsdefizit besser. Jedoch wurde auch die Sucht nach mehr Ritalin grösser. Als sie älter wurde konnte sie sich kein Leben ohne dieses Medikament vorstellen. «Ritalin macht mich taub, es unterdrückt meine Gefühle, ich konnte einmal ruhig sein», sagt Sarej. Im Unterricht konnte sie sich dank dem stimulierenden Medikament konzentrieren, so wurden ihre schulischen Leistungen besser. Ohne Ritalin hätte ADHS ihr ganzes Leben negativ, aber auch positiv verändern können. Ob die Einnahme von Ritalin sinnvoll ist, kommt immer auf die Person drauf an, viele Menschen sprechen die Naturheilmittel gut an, wodurch nicht jede Person auf Ritalin angewiesen ist. Schlussendlich ist Ritalin ein sehr starkes Medikament, dass die eigenen Gefühle unterdrückt und einem durch den Alltag hilft, deshalb sollte man sich gut überlegen, ob man dies einnehmen will.
+ADHS ist genetisch vererbbar, bis zu 5% der Bevölkerung leiden an dieser Erkrankung. Oftmals haben Kinder im jungen Alter viele Schwierigkeiten, sich mit dieser Krankheit in eine Klasse zu integrieren und fallen somit, als störend oder oft auch hyperaktiv, auf. 
+
+{{</box>}}
+
+![Medikament Ritalin; www.proonlinepharma.com](https://www.proonlinepharma.com/wp-content/uploads/2020/11/Buy-Ritalin-Online-1-300x300.png)
+
+So auch Sarej, die im Kindergarten oft an Wutausbrüchen litt. Dadurch kam die Lehrerin erst mal auf den Gedanken, dass Sarej unter ADHS leiden könnte. Obwohl es strenge Regelungen für das Verschreiben von Ritalin gab, wurde Sarej das Medikament ohne weitere Beobachtungen verschrieben. In den nächsten Jahren wurden ihre Wutausbrüche und ihr Aufmerksamkeitsdefizit besser. Jedoch wurde auch die Sucht nach mehr Ritalin grösser. Als sie älter wurde, konnte sie sich kein Leben ohne dieses Medikament vorstellen. «Ritalin macht mich taub, es unterdrückt meine Gefühle, ich konnte einmal ruhig sein», sagt Sarej. Im Unterricht konnte sie sich dank dem stimulierenden Medikament konzentrieren, so wurden ihre schulischen Leistungen besser. Ohne Ritalin hätte ADHS ihr ganzes Leben negativ, aber auch positiv verändern können. Ob die Einnahme von Ritalin sinnvoll ist, kommt ganz auf die Person drauf an und wie stark sich das ADHS bei dieser auswirkt. Viele Menschen sehen Naturheilmittel als eine optimalere Lösung. Schlussendlich ist Ritalin ein sehr starkes Medikament, dass, die eigenen Gefühle unterdrückt, und einem durch den Alltag hilft, deshalb sollte man sich gut überlegen, ob man dies einnehmen will.
 
 #### Undiagnostiziertes ADHS im Alltag
 

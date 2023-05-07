@@ -10,4 +10,6 @@ description = ""
 
 amelie.haldi17@gmail.com
 
+##### Schülerin des Gymnasium Kirchenfeld Bern 🏛️
+
 Here should be some info about me...

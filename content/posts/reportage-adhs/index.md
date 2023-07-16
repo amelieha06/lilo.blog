@@ -4,7 +4,7 @@ date = "2023-03-27"
 draft = false
 pinned = false
 tags = ["RitalinUndADHS", "Deutschprojekt", "Reportage"]
-image = "https://www.kinderaerzte-nabburg.de/wp-content/uploads/2019/06/adhs_neu.jpg"
+image = "https://vigesco-institut.de/wp-content/uploads/AdobeStock_30627719-scaled.jpeg"
 description = ""
 footnotes = ""
 +++

@@ -4,7 +4,7 @@ date = "2023-03-27"
 draft = false
 pinned = false
 tags = ["RitalinUndADHS", "Deutschprojekt", "Reportage"]
-image = "https://vigesco-institut.de/wp-content/uploads/AdobeStock_30627719-scaled.jpeg"
+image = "https://i.pinimg.com/564x/6a/fe/5c/6afe5c62d3e94b847e9c7d7bce8edf97.jpg"
 description = ""
 footnotes = ""
 +++
